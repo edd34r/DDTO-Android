@@ -1,8 +1,8 @@
 flag	content
 descLanguage Cambiar el idioma del juego
-descKeyBindings	Change the key bindings of each note.
-descDownscroll	Change the direction of incoming notes.
-descGhostTap	Determines whether or not tapping outside of incoming notes will reduce your health.
+descKeyBindings	Cambia las combinaciones de teclas de cada nota.
+descDownscroll	Cambia la dirección de las notas entrantes.
+descGhostTap	Elige si las notas que no tocas te quitarán la salud.
 descJudgement	Customize the game's judgement timings.
 descFPSCap	Set the game's FPS cap. (Left or Right, Shift to go faster)
 descCurFPSCap	Current FPS Cap
